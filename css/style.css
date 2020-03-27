@@ -1,0 +1,53 @@
+nav{
+  background: #2c3e50;
+  padding: 35px 0;
+}
+a:hover{
+  text-decoration: none;
+}
+.nav-lista{
+  display: inline-block;
+  padding: 0 2%;
+}
+.menu-nav{
+  text-align: right;
+}
+.text-nav{
+  color: white;
+  font-size: 25px;
+  font-weight: 600;
+}
+.text-nav:hover{
+  color: white;
+}
+.text-nav2{
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+}
+.text-nav2:hover{
+  color: #1abc9c;
+}
+
+/* header */
+.position-cent{
+  text-align: center;
+  background: #1abc9c;
+}
+.avatar{
+  max-width: 250px;
+  margin-top: 10px;
+}
+h1{
+  color: white;
+  font-size: 60px;
+  font-weight: 600;
+  margin: 25px 0;
+}
+
+.par-header{
+  color: white;
+  font-size: 25px;
+  font-weight: 600;
+  margin: 25px 0 90px;
+}
